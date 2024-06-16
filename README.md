@@ -35,20 +35,22 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-project.git
+   git clone https://github.com/finasusn/pizza.git
    cd pizza
 2. Install dependencies:
-    
+
+   ```bash
     npm install
 
-3. Configure environment variables:
+4. Configure environment variables:
 
     Create a .env file in the root directory based on .env.example.
     Modify the variables to match your local environment settings.
 
-4. Running the Project
+5. Running the Project
 Start the development server:
 
+     ```bash
     npm run dev
 
 Open your browser and visit http://localhost:3000 to view the application.
