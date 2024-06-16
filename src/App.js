@@ -6,8 +6,7 @@ import { FaPizzaSlice } from "react-icons/fa6";
 function App() {
   return (
     <div className='body'>
-    <div className="all">
-    <div className='bgimg'></div>
+    <div className='all'>
       <div className='heading'>
         <h1 className='py-2'><b>Pizza Price Calculator&nbsp;<FaPizzaSlice /></b></h1>
       </div>

@@ -12,11 +12,13 @@
 
 .all{
   background-color: rgba(0, 0, 0, 0.77);
-  padding: 40px;
+  padding: 35px;
   margin: 20px;
   align-items: center;
   border-color: gray;
   border-radius: 10px;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
 }
 
 .heading {

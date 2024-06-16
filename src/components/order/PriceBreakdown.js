@@ -34,12 +34,12 @@ const PriceBreakdown = ({ size, toppings, crust }) => {
     <div className='p-0 m-2'>
       <div id="accordion">
         <div className="card transparent-background">
-          <div className="card-header p-0">
-            <a className="collapsed text-light card-link items-center stretched-link" data-toggle="collapse" href="#collapseTwo">
+          <div className="card-header p-0 mb-0">
+            <a className="collapsed text-light card-link items-center stretched-link mb-0 pb-0" data-toggle="collapse" href="#collapseTwo">
               <u><p>Price Breakdown&nbsp;<PiCursorClickFill /></p></u>
             </a>
           </div>
-          <div id="collapseTwo" className="collapse" data-parent="#accordion">
+          <div id="collapseTwo" className="collapse p-0 m-0" data-parent="#accordion">
             <div className="card-body">
               <p>
                 Size: {size.charAt(0).toUpperCase() + size.slice(1)} - ${basePrices[size]}
