@@ -54,3 +54,7 @@ Start the development server:
     npm run dev
 
 Open your browser and visit http://localhost:3000 to view the application.
+
+![Screenshot 2024-06-16 182004](https://github.com/finasusn/pizza/assets/150430510/799a8962-1a3f-489e-bace-976b7d8b414a)
+![Screenshot 2024-06-16 182024](https://github.com/finasusn/pizza/assets/150430510/88f0582d-080a-469e-b182-a58c7ab9d7ad)
+
